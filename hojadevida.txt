@@ -1,5 +1,6 @@
 HOJA DE VIDA
-Nombre:
+Nombre: Pepito
 Apellido: Perez
-Edad:
-Profesión:
+Edad: 40
+Profesión: Ingeniero
+Dirección: Calle 3 # 4-78
