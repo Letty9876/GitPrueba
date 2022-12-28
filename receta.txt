@@ -1,6 +1,5 @@
-Receta de jugo de guayaba
+Receta de jugo de guanabana
 
 agua
 azúcar
-guayaba
-hielo
+guanabana
