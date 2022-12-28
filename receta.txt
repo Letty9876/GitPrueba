@@ -3,3 +3,8 @@ Receta de jugo de guanabana
 agua
 azúcar
 guanabana
+
+Preparación:
+1. Se agrega a la licuadora
+2. Se licúa por 20 segundos
+3. Se sirve en una copa
