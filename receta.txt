@@ -8,4 +8,5 @@ receta de postre
 
 gelatina
 azucar
-leche
+leche condensada
+guanabana
